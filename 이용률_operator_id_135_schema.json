@@ -1,0 +1,57 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ChargingStation",
+  "type": "object",
+  "properties": {
+    "location_id": {
+      "type": "integer",
+      "enum": [335, 337, 338]
+    },
+    "cb_id": {
+      "type": "integer",
+      "description": "cb_id 값은 location_id에 따라 결정됩니다.",
+      "oneOf": [
+        {
+          "if": {
+            "properties": { "location_id": { "const": 335 } }
+          },
+          "then": { "enum": [207] }
+        },
+        {
+          "if": {
+            "properties": { "location_id": { "const": 337 } }
+          },
+          "then": { "enum": [208, 209, 285] }
+        },
+        {
+          "if": {
+            "properties": { "location_id": { "const": 338 } }
+          },
+          "then": { "enum": [305] }
+        }
+      ]
+    },
+    "charge_division": {
+      "type": "string",
+      "enum": ["slow", "rapidity", "wireless"]
+    },
+    "upper_location_id": {
+      "type": "integer",
+      "const": 334,
+      "description": "upper_location_id는 334로 고정됩니다."
+    },
+    "use_time_hap": {
+      "type": "string",
+      "pattern": "^[0-9]+$",
+      "description": "양의 정수를 문자열 형태로 표현합니다."
+    },
+    "install_date": {
+      "type": "string",
+      "format": "date",
+      "description": "YYYY-MM-DD 형식을 따릅니다. 2022년부터 2024년 오늘까지의 날짜가 유효합니다.",
+      "minDate": "2022-01-01",
+      "maxDate": "2024-03-19" 
+    }
+  },
+  "required": ["location_id", "cb_id", "charge_division", "upper_location_id", "use_time_hap", "install_date"]
+}

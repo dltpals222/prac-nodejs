@@ -1,0 +1,162 @@
+[
+  {
+    "location_id": 335,
+    "cb_id": 207,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "993041",
+    "install_date": "2024-01-02"
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "889354",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "796090",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "wireless",
+    "upper_location_id": 334,
+    "use_time_hap": "493907",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "550168",
+    "install_date": "2024-01-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "448691",
+    "install_date": "2024-01-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "830217",
+    "install_date": "2024-01-26"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "905828",
+    "install_date": "2024-01-26"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 285,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "876108",
+    "install_date": "2024-03-05"
+  },
+  {
+    "location_id": 338,
+    "cb_id": 305,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "216829",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 335,
+    "cb_id": 207,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "216079",
+    "install_date": "2024-01-02"
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "858418",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "388488",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "881247",
+    "install_date": "2024-03-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "904351",
+    "install_date": "2024-01-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "178620",
+    "install_date": "2024-01-02"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "922885",
+    "install_date": "2024-01-26"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "600737",
+    "install_date": "2024-01-26"
+  },
+  {
+    "location_id": 337,
+    "cb_id": 285,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "990872",
+    "install_date": "2024-03-05"
+  },
+  {
+    "location_id": 338,
+    "cb_id": 305,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "908949",
+    "install_date": "2024-03-02"
+  }
+]

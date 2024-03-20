@@ -1,0 +1,173 @@
+[
+  {
+    "location_id": 335,
+    "cb_id": 207,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "12345",
+    "install_date": "2024-01-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "23456",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "34567",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "wireless",
+    "upper_location_id": 334,
+    "use_time_hap": "45678",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "56789",
+    "install_date": "2024-01-02",
+    "cb_evse_id": 13
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "67890",
+    "install_date": "2024-01-02",
+    "cb_evse_id": 14
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "78901",
+    "install_date": "2024-01-26",
+    "cb_evse_id": 38
+  },
+  {
+    "location_id": 337,
+    "cb_id": 285,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "89012",
+    "install_date": "2024-03-05",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 338,
+    "cb_id": 305,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "90123",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 335,
+    "cb_id": 207,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "12345",
+    "install_date": "2024-01-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "23456",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "34567",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 336,
+    "cb_id": 304,
+    "charge_division": "wireless",
+    "upper_location_id": 334,
+    "use_time_hap": "45678",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "56789",
+    "install_date": "2024-01-02",
+    "cb_evse_id": 13
+  },
+  {
+    "location_id": 337,
+    "cb_id": 208,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "67890",
+    "install_date": "2024-01-02",
+    "cb_evse_id": 14
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "rapidity",
+    "upper_location_id": 334,
+    "use_time_hap": "78901",
+    "install_date": "2024-01-26",
+    "cb_evse_id": 38
+  },
+  {
+    "location_id": 337,
+    "cb_id": 209,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "89012",
+    "install_date": "2024-01-26",
+    "cb_evse_id": 344
+  },
+  {
+    "location_id": 337,
+    "cb_id": 285,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "90123",
+    "install_date": "2024-03-05",
+    "cb_evse_id": null
+  },
+  {
+    "location_id": 338,
+    "cb_id": 305,
+    "charge_division": "slow",
+    "upper_location_id": 334,
+    "use_time_hap": "01234",
+    "install_date": "2024-03-02",
+    "cb_evse_id": null
+  }
+]
