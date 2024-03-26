@@ -1,0 +1,30 @@
+[
+  [
+    {"charge_volume":140,"timeLine":"2023.04"},
+    {"charge_volume":1440,"timeLine":"2023.05"},
+    {"charge_volume":2140,"timeLine":"2023.06"},
+    {"charge_volume":4010,"timeLine":"2023.07"},
+    {"charge_volume":1950,"timeLine":"2023.08"},
+    {"charge_volume":20,"timeLine":"2023.09"},
+    {"charge_volume":50,"timeLine":"2023.10"},
+    {"charge_volume":390,"timeLine":"2023.11"},
+    {"charge_volume":480,"timeLine":"2023.12"},
+    {"charge_volume":7437,"timeLine":"2024.01"},
+    {"charge_volume":540,"timeLine":"2024.02"},
+    {"charge_volume":4000,"timeLine":"2024.03"}
+  ],
+  [
+    {"charge_amt":"2800","timeLine":"2023.04"},
+    {"charge_amt":"28800","timeLine":"2023.05"},
+    {"charge_amt":"42800","timeLine":"2023.06"},
+    {"charge_amt":"80200","timeLine":"2023.07"},
+    {"charge_amt":"39000","timeLine":"2023.08"},
+    {"charge_amt":"43750","timeLine":"2023.09"},
+    {"charge_amt":"157840","timeLine":"2023.10"},
+    {"charge_amt":"4500","timeLine":"2023.11"},
+    {"charge_amt":"6000","timeLine":"2023.12"},
+    {"charge_amt":"205650","timeLine":"2024.01"},
+    {"charge_amt":"6300","timeLine":"2024.02"},
+    {"charge_amt":"1000","timeLine":"2024.03"}
+  ]
+]
