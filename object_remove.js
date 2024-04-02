@@ -42,7 +42,9 @@ let obj2 = {
   rapidity_use_hap: 0,
   rapidity_use_bunmo: 0,
   total_use_rate: 0,
+  evse : null,
 };
 
-console.log(('rapidity_use_rate' in obj2))
-console.log(('slow_use_rate' in obj2))
+// console.log(('rapidity_use_rate' in obj2))
+// console.log(('slow_use_rate' in obj2))
+Object
