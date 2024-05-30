@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/dltpals222/prac-nodejs/issues"
   },
-  "homepage": "https://github.com/dltpals222/prac-nodejs#readme",
-  "dependencies": {
-    "faker": "^6.6.6"
-  }
+  "homepage": "https://github.com/dltpals222/prac-nodejs#readme"
 }
